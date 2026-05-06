@@ -2,6 +2,6 @@ baseURL = 'https://abhibaireddy.me/'
 locale = 'en-us'
 title = "Abhi's Personal Blog"
 theme = 'hugo-bearblog'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+
+[params]
+hideMadeWithLine = true
