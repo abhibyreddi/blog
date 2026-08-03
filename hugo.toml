@@ -1,7 +1,0 @@
-baseURL = 'https://abhibaireddy.me/'
-locale = 'en-us'
-title = "Abhi's Personal Blog"
-theme = 'maverick'
-
-[params]
-hideMadeWithLine = true
