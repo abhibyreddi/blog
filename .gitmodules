@@ -1,6 +1,0 @@
-[submodule "blog/themes/hugo-bearblog"]
-	path = blog/themes/hugo-bearblog
-	url = https://github.com/janraasch/hugo-bearblog.git
-[submodule "themes/maverick"]
-	path = themes/maverick
-	url = https://github.com/canhtran/maverick.git
