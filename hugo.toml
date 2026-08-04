@@ -8,8 +8,8 @@ pages = "/:slug"
 
 [params]
 logo = '/assets/favicon.ico'
-description = "A minimal hugo theme focus on content"
-author = 'Calvin Tran'
+description = "Abhi's Personal Website"
+author = 'Abhi Baireddy'
 items = 10
 
 [params.comments]
@@ -18,6 +18,11 @@ theme = 'github-light'
 
 
 [menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = -110
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
