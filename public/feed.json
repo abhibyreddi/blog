@@ -3,17 +3,32 @@
   "title": "Abhi's Personal Website",
   "home_page_url": "http://localhost:1313/",
   "feed_url": "http://localhost:1313/feed.json",
-  "description": "A minimal hugo theme focus on content",
+  "description": "Abhi's Personal Website",
   "favicon": "http://localhost:1313//assets/favicon.ico",
   "expired": false,
   "author": {
-    "name": "Calvin Tran",
+    "name": "Abhi Baireddy",
     "url": "http://localhost:1313/"
   },
   "items": [
     
     
 
+    
+    {
+      "id": "acebd40adca40dd7cac7d61c62de019ab424d0d2",
+      "title": "My Very First Post",
+      "summary": "First Post Justifying the Existence of this Website",
+      "content_text": "Coming soon.\n",
+      "content_html": "\u003cp\u003eComing soon.\u003c/p\u003e\n",
+      "url": "http://localhost:1313/posts/first-post/",
+      "date_published": "4086-04-09T80:44:00+00:00",
+      "date_modified": "4086-04-09T80:44:00+00:00",
+      "author": {
+        "name": "Abhi Baireddy",
+        "url": "http://localhost:1313/"
+      }
+    }
     
   ]
 }
